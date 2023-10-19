@@ -10,7 +10,7 @@ so that every time a new file gets uploaded, the data / files get moved **automa
 ### Pipeline
 ![pipe](https://github.com/dominicho97/Snowpipe/assets/43000003/70be516e-cac7-482d-a269-4bd9c06df011)
 
-### Pipeline check
+### Pipeline data check
 ![snowpipe_status_check](https://github.com/dominicho97/Snowpipe/assets/43000003/47cfeacb-8c62-4863-a712-a46ee9281a9a)
 
 ### Pipeline / notification check
